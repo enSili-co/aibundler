@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>AI Bundler for Mac</h1>
 <p align=center>
-  Download videos, music, or both from <u>almost anywhere</u>.<br>Convert and export them to your preferred format.<br><br>Simple. Fast. No-fuss.
+  Bundle your files and folders into one document.<br>Efficiently. Fast. effortlessly.
 </p>
 
 

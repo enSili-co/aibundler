@@ -1,5 +1,5 @@
 {
-  "name": "AI Bundler: The Ultimate Video Downloader for Mac",
+  "name": "AI Bundler: The Ultimate File Bundler for AI Projects",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "AI Bundler",
-  "description": "Effortlessly download videos and music from YouTube, Vimeo, Twitch, Facebook, and hundreds of other websites. Convert and export them to your preferred format with just a few clicks. Simple, fast, and no-fuss.",
+  "description": "Bundle files and folders into a single document for AI use. Track file count, character count, and token count. Works with Claude, OpenAI's ChatGPT, DeepSeek, and more.",
   "start_url": "/",
   "display": "standalone"
 }
