@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>AI Bundler for Mac</h1>
 <p align=center>
-  Bundle your files and folders into one document.<br>Efficiently. Fast. effortlessly.
+  Bundle your files and folders into one document.<br>Efficiently. Fast. Effortlessly.
 </p>
 
 
