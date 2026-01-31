@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://ensili.co/download/aibundler/aibundler-1.2.2.zip
+▶︎ https://cdn.ensili.co/app/aibundler/download/aibundler-1.2.2.zip
 
 # Official Website
 
